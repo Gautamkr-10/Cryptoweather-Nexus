@@ -16,7 +16,8 @@ CryptoWeather Nexus is an innovative project that combines cryptocurrency market
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Homepage](![Screenshot 2025-04-06 100802](https://github.com/user-attachments/assets/17a96db2-e581-4e8c-a836-b704bcd2c427)
+)
 
 
 ## Installation
